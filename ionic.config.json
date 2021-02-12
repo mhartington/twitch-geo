@@ -1,0 +1,7 @@
+{
+  "name": "twitch-geo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
